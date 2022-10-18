@@ -1,14 +1,14 @@
-Autmating Crypto Listing using API pull
+#Autmating Crypto Listing using API pull
 📈 This Jupyter Notebook use API pull to Automatically get the data from the Crypto website and later analys for the same
          
 
-Status: ✔️ Available
+#Status: ✔️ Available
 About • Features • Tech Stack • Contact
 
-About
+#About
 Creating automation of listing of crypto using API.
 
-Features
+#Features
  feature
-Tech Stack
+#Tech Stack
 python Badge 
